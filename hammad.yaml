@@ -9,5 +9,5 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 steps:
-- script: echo "Salam From Syed Hammad Ahmed"
+- script: echo "Salam From Syed Hammad Ahmed.it is frist modfication for pulling content"
   displayName: "This is my frist auzur pipeline"
